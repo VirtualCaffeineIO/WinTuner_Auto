@@ -1,7 +1,7 @@
 # WinTuner Auto-Update Script
-# Author: [Your Name]
-# Website: [Your Website]
-# Date: [MM/DD/YYYY]
+# Author: Virtual Caffeine IO
+# Website: virtualcaffeine.io
+# Date: 03/31/2025
 # Version: 4.0
 # Description: This script automates application updates and management using WinTuner in Microsoft Intune.
 # Warniing - Not ready for production, still being developed
