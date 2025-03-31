@@ -1,2 +1,2 @@
-# WinTiner_Script
+# WinTuner_Script
 Wintuner Automation Script
