@@ -33,4 +33,3 @@ Follow the prompts to:
 
 ## Author
 - **Virtual Caffeine IO**
-- Website: https://virtualcaffeine.io
